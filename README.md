@@ -5,7 +5,7 @@ Designed an Excel-based dashboard for analyzing bike sales data across various d
 
 ## Dataset Used
 
-- <a href=>Dataset</a>
+- <a href=https://github.com/AllenGold-max/Bike-Sales-Analysis/blob/main/Bike%20Sales%20Report%202024.xlsx>Dataset</a>
 
 ## Questions (KPIs)
 
